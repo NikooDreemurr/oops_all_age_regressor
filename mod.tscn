@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://ce7x0k6it3kkt"]
+
+[ext_resource type="Script" uid="uid://dv7ojamim0qri" path="res://mods/oops_all_age_regressor/mod.gd" id="1_2glsr"]
+
+[node name="Mod" type="Node" unique_id=906241414]
+script = ExtResource("1_2glsr")
